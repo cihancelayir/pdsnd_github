@@ -1,5 +1,5 @@
 ### Date created
-in 15.10.2020 have created local repository.
+15.10.2020 for refactoring brach 
 
 ### Project Title
 bikeshare.py 
