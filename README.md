@@ -2,10 +2,10 @@
 in 15.10.2020 have created local repository.
 
 ### Project Title
-Replace the Project Title
+bikeshare.py 
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare project push to Gýthub
 
 ### Files used
 Include the files used
