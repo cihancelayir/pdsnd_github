@@ -220,7 +220,7 @@ def display_raw_data(df):
         nx = nx + 5
         print(df.iloc[nx:nx+5])
 
-
+# refactoring main function
 def main():
     while True:
         city, month, day = get_filters()
