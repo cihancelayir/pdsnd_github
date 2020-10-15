@@ -1,5 +1,5 @@
 ### Date created
-Include the date you created this project and README file.
+in 15.10.2020 have created local repository.
 
 ### Project Title
 Replace the Project Title
