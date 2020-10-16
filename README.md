@@ -8,7 +8,7 @@ bikeshare.py
 Bikeshare project push to Gýthub
 
 ### Files used
-files used for bikeshare.p project
+files used for bikeshare.py project
 
 ### Credits
 https://github.com/cihancelayir/pdsnd_github.git
